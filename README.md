@@ -56,9 +56,4 @@
 
 ---
 
-## 📦 Installation
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/<your-username>/FitGenius.git
-   cd FitGenius
